@@ -1,0 +1,20 @@
+body {
+  background: hotpink;
+}
+
+h1 {
+  border: 1px solid red;
+}
+
+div {
+  background: blue;
+}
+
+.header {
+  color: white;
+}
+
+#thing {
+  width: 200px;
+  border: 2px dashed purple;
+}
